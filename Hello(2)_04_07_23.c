@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 
-void pritString(char arr[]);
+void pritString(char arr[]); 
 int countLength(char arr[]);
 
 int main() {
